@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, KMapView</string>
+    <string name="app_name">KMapView</string>
+	<string name="about_text">Karnugh Map was written by Travis Gant and Lia Hatziemanuel.  The application allows the user to simplify boolean expressions using a Karnaugh Map as input.</string>
+	<string name="about_title">About Karnaugh Map</string>
+	<string name="start_instructions">Select number of variables.</string>
+	<string name="numvars_2">2</string>
+	<string name="numvars_3">3</string>
+	<string name="numvars_4">4</string>
+	<string name="about">About Karnaugh Map</string>
+	<string name="version">Version 1.0</string>
+</resources>
